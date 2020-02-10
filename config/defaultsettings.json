@@ -1,0 +1,32 @@
+{
+  "version": "2.1.2",
+  "initPopup": true,
+  "exportMode": false,
+  "generatedBy": "27a07748-b1ce-406d-b164-eb04d80eacb2",
+  "activeConfigs": [
+    "betterfps.json",
+    "foamfix.cfg",
+    "forge.cfg",
+    "Galacticraft",
+    "OpenModsLibCore.json",
+    "phosphor.json",
+    "randompatches.cfg",
+    "splash.properties"
+  ],
+  "hashes": {
+    "Default/Galacticraft\\planets.conf": "25514653BF91FFA78B569CA49831BB99",
+    "Default/Galacticraft\\power-GC3.conf": "F1E6252C86D14F29EEE9248CDDCC7F39",
+    "Default/Galacticraft\\core.conf": "9E41549985E7921611D4A306D15A4A04",
+    "Default/randompatches.cfg": "D2BD14122835D278F0C99F32C2B6B91F",
+    "Default/OpenModsLibCore.json": "76BB325D43D379EB0B36B8CAB6E91851",
+    "Default/forge.cfg": "4D808B91E5AE9C46BBD26E1445BE05F7",
+    "Default/Galacticraft\\miccore.conf": "3FC0DE865E6CE59FA3CD6BB04E922BCA",
+    "Default/phosphor.json": "3403E8E7C74FCBF72E5BC538C7379633",
+    "Default/Galacticraft\\chunkloading.conf": "B5EF1F473FD07F4C6C117064ED49A840",
+    "Default/splash.properties": "DF6A06596CFDDC1FC9A63098FEDE968B",
+    "Default/betterfps.json": "9FAFC11A63BC72F6D2CFA5A3E3EBD02B",
+    "Default/foamfix.cfg": "B4C163B8D3ADF056D5478D79A3F58B4A"
+  },
+  "mainProfile": "Default",
+  "initially_created": "10.02.2020 17:42:09"
+}
