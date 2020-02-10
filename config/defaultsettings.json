@@ -1,18 +1,9 @@
 {
   "version": "2.1.2",
-  "initPopup": true,
+  "initPopup": false,
   "exportMode": false,
   "generatedBy": "27a07748-b1ce-406d-b164-eb04d80eacb2",
-  "activeConfigs": [
-    "betterfps.json",
-    "foamfix.cfg",
-    "forge.cfg",
-    "Galacticraft",
-    "OpenModsLibCore.json",
-    "phosphor.json",
-    "randompatches.cfg",
-    "splash.properties"
-  ],
+  "activeConfigs": [],
   "hashes": {
     "Default/Galacticraft\\planets.conf": "25514653BF91FFA78B569CA49831BB99",
     "Default/Galacticraft\\power-GC3.conf": "F1E6252C86D14F29EEE9248CDDCC7F39",
